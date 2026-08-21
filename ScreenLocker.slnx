@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ScreenLocker/ScreenLocker.csproj" />
+  </Folder>
+  <Project Path="Build.csproj" />
+</Solution>
